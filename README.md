@@ -87,11 +87,22 @@ Alternatively, use the helper script:
 
 ## Demo video
 
-Add your YouTube or Google Drive recording link here after you record the project demo.
+**Mandatory for hackathon submission:** Include a screen-recording video of your live, working project here.
+
+Upload your demo video to YouTube, Google Drive, or another hosting platform and replace this placeholder with the link:
+
+[🔗 Watch the live demo video](https://your-video-link-here.com)
+
+The video should show:
+- Uploading a long-form video
+- Processing and clip generation
+- Previewing generated clips
+- Downloading the repurposed content
 
 ## Submission checklist
 
-- [ ] Public GitHub repository
-- [ ] README with setup and demo link
-- [ ] Working Streamlit prototype
-- [ ] Sample video upload and clip extraction
+- [x] Public GitHub repository (https://github.com/DEEPESH468/ATTENTIONX-HACK)
+- [x] README with setup instructions and demo video link
+- [x] Working Streamlit prototype
+- [x] Sample video upload and clip extraction
+- [ ] Hosted version (optional, but advantageous for evaluation)
